@@ -1,0 +1,1 @@
+Readme padrão para testar as funcionalidades de um arquivo .md
